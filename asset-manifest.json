@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/fun-weather/static/css/main.22df81b7.chunk.css",
+    "main.js": "/fun-weather/static/js/main.98c1011a.chunk.js",
+    "main.js.map": "/fun-weather/static/js/main.98c1011a.chunk.js.map",
+    "runtime-main.js": "/fun-weather/static/js/runtime-main.4e021c5c.js",
+    "runtime-main.js.map": "/fun-weather/static/js/runtime-main.4e021c5c.js.map",
+    "static/js/2.204e7c46.chunk.js": "/fun-weather/static/js/2.204e7c46.chunk.js",
+    "static/js/2.204e7c46.chunk.js.map": "/fun-weather/static/js/2.204e7c46.chunk.js.map",
+    "static/js/3.c897622e.chunk.js": "/fun-weather/static/js/3.c897622e.chunk.js",
+    "static/js/3.c897622e.chunk.js.map": "/fun-weather/static/js/3.c897622e.chunk.js.map",
+    "index.html": "/fun-weather/index.html",
+    "static/css/main.22df81b7.chunk.css.map": "/fun-weather/static/css/main.22df81b7.chunk.css.map",
+    "static/js/2.204e7c46.chunk.js.LICENSE.txt": "/fun-weather/static/js/2.204e7c46.chunk.js.LICENSE.txt",
+    "static/media/app-store-button.76a3521e.png": "/fun-weather/static/media/app-store-button.76a3521e.png",
+    "static/media/cloudy-icon.db926492.png": "/fun-weather/static/media/cloudy-icon.db926492.png",
+    "static/media/cloudy-phone.3e332875.png": "/fun-weather/static/media/cloudy-phone.3e332875.png",
+    "static/media/diamond-icon.7f3d97f0.png": "/fun-weather/static/media/diamond-icon.7f3d97f0.png",
+    "static/media/download-phone.749bdce8.png": "/fun-weather/static/media/download-phone.749bdce8.png",
+    "static/media/main.scss": "/fun-weather/static/media/first-section-bg.cc344e3e.png",
+    "static/media/google-play-button.697a17fa.png": "/fun-weather/static/media/google-play-button.697a17fa.png",
+    "static/media/layers-icon.74892511.png": "/fun-weather/static/media/layers-icon.74892511.png",
+    "static/media/phone-image.c12d9edc.png": "/fun-weather/static/media/phone-image.c12d9edc.png",
+    "static/media/rainy-icon.9210d0f8.png": "/fun-weather/static/media/rainy-icon.9210d0f8.png",
+    "static/media/rainy-phone.0add32fd.png": "/fun-weather/static/media/rainy-phone.0add32fd.png",
+    "static/media/slider.703c89ac.png": "/fun-weather/static/media/slider.703c89ac.png",
+    "static/media/sunny-icon.3c1a88b3.png": "/fun-weather/static/media/sunny-icon.3c1a88b3.png",
+    "static/media/sunny-phone.17977ff3.png": "/fun-weather/static/media/sunny-phone.17977ff3.png",
+    "static/media/tank-icon.907964d0.png": "/fun-weather/static/media/tank-icon.907964d0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e021c5c.js",
+    "static/js/2.204e7c46.chunk.js",
+    "static/css/main.22df81b7.chunk.css",
+    "static/js/main.98c1011a.chunk.js"
+  ]
+}
