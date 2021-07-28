@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/fun-weather/static/css/main.dbb5bfec.chunk.css",
-    "main.js": "/fun-weather/static/js/main.98c1011a.chunk.js",
-    "main.js.map": "/fun-weather/static/js/main.98c1011a.chunk.js.map",
+    "main.css": "/fun-weather/static/css/main.9f90ad39.chunk.css",
+    "main.js": "/fun-weather/static/js/main.77b4fcea.chunk.js",
+    "main.js.map": "/fun-weather/static/js/main.77b4fcea.chunk.js.map",
     "runtime-main.js": "/fun-weather/static/js/runtime-main.4e021c5c.js",
     "runtime-main.js.map": "/fun-weather/static/js/runtime-main.4e021c5c.js.map",
     "static/js/2.204e7c46.chunk.js": "/fun-weather/static/js/2.204e7c46.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.c897622e.chunk.js": "/fun-weather/static/js/3.c897622e.chunk.js",
     "static/js/3.c897622e.chunk.js.map": "/fun-weather/static/js/3.c897622e.chunk.js.map",
     "index.html": "/fun-weather/index.html",
-    "static/css/main.dbb5bfec.chunk.css.map": "/fun-weather/static/css/main.dbb5bfec.chunk.css.map",
+    "static/css/main.9f90ad39.chunk.css.map": "/fun-weather/static/css/main.9f90ad39.chunk.css.map",
     "static/js/2.204e7c46.chunk.js.LICENSE.txt": "/fun-weather/static/js/2.204e7c46.chunk.js.LICENSE.txt",
     "static/media/app-store-button.76a3521e.png": "/fun-weather/static/media/app-store-button.76a3521e.png",
     "static/media/cloudy-icon.db926492.png": "/fun-weather/static/media/cloudy-icon.db926492.png",
@@ -31,7 +31,7 @@
   "entrypoints": [
     "static/js/runtime-main.4e021c5c.js",
     "static/js/2.204e7c46.chunk.js",
-    "static/css/main.dbb5bfec.chunk.css",
-    "static/js/main.98c1011a.chunk.js"
+    "static/css/main.9f90ad39.chunk.css",
+    "static/js/main.77b4fcea.chunk.js"
   ]
 }
